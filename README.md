@@ -1,4 +1,4 @@
-# Guid to setting up auto-deployment from github to live site
+# Setting up auto-deployment from github to live site
 
 URL of live site: http://mysite.com/
 Repo: https://github.com/username/mysite.com.git
